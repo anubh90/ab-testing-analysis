@@ -20,7 +20,7 @@ You are tasked with a new project to launch Super.com in new countries (assume w
 - How would you approach this problem?
 - Who would you involve?
 - Where would you launch first?
-- 
+  
 Please also list out the data aggregations (dimensions, metrics) with descriptions into how you would incorporate it into your decision making process.
 
 
